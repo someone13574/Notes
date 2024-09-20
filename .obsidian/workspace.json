@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "edd3d72f17b8cd3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b1a19c55959267",
+        "type": "tabs",
+        "dimension": 40.84033613445378,
+        "children": [
+          {
+            "id": "98f63082ee5db606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "497da0b6321ed15a",
+        "type": "tabs",
+        "dimension": 59.15966386554622,
+        "children": [
+          {
+            "id": "405df6766dae7616",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Subjects/ERTH/ERTH 1010/media/L5/Lec5_IgnRx_Sept19upload.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e733e332b222cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d62ce7c4e1d6e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd67bfaa0bcab15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e873cbc6a4153fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e380a11f428df68c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e467cbc3edd55be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9017547294c48e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9345f8cec8aa9ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99e4d3ee7b5340f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfabffc6726e2881",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7b14e7be70de880",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 5.md"
+              }
+            }
+          },
+          {
+            "id": "a451f9fc9f2811a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "80955010b442575f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a1b2ff20c32c10d6",
+        "type": "window",
+        "children": [
+          {
+            "id": "7620149bb5326656",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4f8774366919c63",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/CHEM/CHEM 1101/Lecture 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "fa050b9b0ef6f305",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85bd5aaa19ac11f9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Subjects/CHEM/CHEM 1101/media/L2/Class 2- atoms and light.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2717,
+        "y": 171,
+        "width": 1379,
+        "height": 1128,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a451f9fc9f2811a0",
+  "lastOpenFiles": [
+    "Subjects/CHEM/CHEM 1101/Lecture 2.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 5.md",
+    "Subjects/CHEM/CHEM 1101/media/L2/Class 2- atoms and light.pdf",
+    "Subjects/CHEM/CHEM 1101/Lecture 3.md",
+    "Subjects/CHEM/CHEM 1101/Lecture 4 - Periodicty.md",
+    "Pasted image 20240919171807.png",
+    "Subjects/ERTH/ERTH 1010/media/L5/Lec5_IgnRx_Sept19upload.pdf",
+    "Pasted image 20240919171144.png",
+    "Pasted image 20240919163939.png",
+    "Pasted image 20240919162036.png",
+    "Subjects/ERTH/ERTH 1010/Lecture 4.md",
+    "Subjects/ERTH/ERTH 1010/media/ERTH1010_2024.pdf",
+    "Subjects/ERTH/ERTH 1010/media/L5",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 5 - Multi-Node Analysis.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L5/5. Multi-node_circuits_F24.pdf",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L5",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/ECOR 1041 (Comp & Prog).md",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L5/ECOR1041_L05_defining_functions.pdf",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 5.md",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L5",
+    "Subjects/CHEM/CHEM 1101/media/L4/Pasted Image 20240918084721_086.png",
+    "Subjects/CHEM/CHEM 1101/media/L4/Pasted image 20240918084050.png",
+    "Subjects/ERTH/ERTH 1010/media/L4/Lec4_Minerals_Sept17upload.pdf",
+    "Subjects/CHEM/CHEM 1101/media/L2/max_wavelen.jpeg",
+    "Subjects/CHEM/CHEM 1101/media/L4/Class 4-periodicity.pdf",
+    "Subjects/CHEM/CHEM 1101/CHEM 1101.md",
+    "Subjects/CHEM/CHEM 1101/media/Periodic_Table.png",
+    "Excalidraw/Lecture 3 2024-09-18 08.46.48.excalidraw.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 3.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L4/Pasted image 20240917143957.png",
+    "Subjects/ERTH/ERTH 1010/ERTH 1010.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 4 - Resistive Circuit and Single Node Circuits.md",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 4.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 2 - Our Solar System Geochronology.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 1.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 3.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 2 - Resistive Circuits.md",
+    "Subjects/ECOR/ECOR 1055 (Engineering Disciplines I)/Lecture 2.md",
+    "Subjects/MATH/MATH 1004/MATH 1004 E.md",
+    "Subjects/MATH/MATH.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/ECOR 1043 (Circuits).md",
+    "Subjects/ECOR/ECOR 1055 (Engineering Disciplines I)/ECOR 1055 (Engineering Disciplines I).md",
+    "Subjects/CHEM/CHEM 1101/media/L3/Excalidraw/Lecture 3 2024-09-16 09.50.15.excalidraw.md",
+    "Subjects/CHEM/CHEM 1101/media/L3/Pasted Image 20240916095055_038.png",
+    "Subjects/CHEM/CHEM 1101/media/L3/Excalidraw/Lecture 3 2024-09-16 09.35.13.excalidraw.md"
+  ]
+}
