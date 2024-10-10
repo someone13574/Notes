@@ -1,0 +1,116 @@
+[[Lec10_Seis2_Oct8upload.pdf]]
+
+---
+
+- Review
+	- Earthquakes
+		- Release of energy along faults
+	- Elastic Rebound Theory
+		- Rocks in upper parts of Earth behave elastically and will build up strain until it breaks
+	- Hypocentre
+		- At depth (< 15 km)
+	- Epicentre
+		- Projection at surface
+	- Seismometers
+		- Records amplitude and time
+	- Magnitude
+		- Mercalli Modified Intensity Scale
+			- Subjective report of damage
+		- Richter Scale
+			- Based on energy and amplitude
+	- P, S, and surface waves
+	- Epicentre location by triangulation.
+- Learning outcomes
+	- Forceshocks and aftershocks
+		- How they defined fault plane
+	- Stress, strain, and elastic modulus
+	- S saves to no pass through liquids
+	- Wave refraction and reflection's utility in describing Earth's internal structure
+	- Mantle tomography
+- Foreshocks and Aftershocks
+	- Main earthquake can be preceeded and followed by many smaller earthquakes
+	- Foreshocks not common. Seen in some large earthquakes
+	- Afterchocks common
+		- Dangerous due to people thinking event is over and more weakened buildings collapsed
+		- Movement of crustal material in fault area that restributes stress after main earthquake
+		- Rocks on either side of the fault moved in main even, still not stable
+		- Defines fault plane
+			- We can map in 3d
+- Properties of Rocks That Influence Seismic Waves
+	- Temperature
+		- Higher temp slows waves
+	- Pressure
+		- Higher pressure speeds waves up
+	- Density
+		- As density increases speed increases
+		- Product of temperature, pressure, and composition
+			- As temperature increases, density drops
+			- Increasing temp with depth makes rocks more dense
+			- Rocks at depth compressed by overlying rocks, increases density with depth
+			- *Pressure is more important than depth*
+	- Elasticity vs. plasticity
+		- Elastic
+			- Returns to original shape after deformation
+			- Unless you exceed strength of material
+		- Plastic
+			- Retains new shape after deformation
+		- Rocks at Earth's surface are elastic
+			- Stretch, return to orginal shape
+			- Can also break to form faults
+		- Rocks at depth are plastic
+			- Deform so there are no quakes
+	- Stress vs. strain (elastic modulus)
+		- Stress = force applied
+			- Force per unit area applied to object
+			- Pull = tension
+				- Rocks tend to break under tension
+			- Squeeze = compression
+				- Rocks stronger under compression
+			- Twist = shear
+		- Strain = way rock responds
+			- Change in volume or shape as result of applied stress
+			- Expressed as $(V_{new} - V_{orig}) / V_{orig}$
+			- Elastic Modulus
+				- Stress / Strain
+				- Two types: shear modulus and bulk modulus (compression)
+				- Both increase with increasing pressure and decrease with temperature
+				- Liquids deform permanently when sheared, shear modulus is 0
+					- Gases as well
+					- S Waves Do Not Travel Through Liquids
+						- Since they move by shear movement, liquids stop them
+- Waves can be modelled as rays or wavefronts
+- Velocity can be measured as distance/time if travel path is straight and the material is homogeneous.
+	- Seismic velocity increases with depth due to pressure
+	- Causes rays to curve away from core.
+	- Waves also refract due to changes in materials
+	- Some is also reflected by layers with higher density
+	- Can be used to determine crustal structure
+		- Trucks create vibration
+		- Placed seismograph stations measure direct wave, reflected waves, and refracted waves.
+- Crust
+	- Heterogeneous in composition and structure
+		- Numbers are averages
+		- P-Waves
+		- Crust: $V_P ~ 6 km/s$ (Cont)
+			- Up to 70 km thick
+		- Ocean crust: $V_P 7 km/s$ 
+			- Very constant
+			- ~7 km thick
+		- Mantle: $V_P = 8 km/sec$
+		- Crust-mantle boundary called the "Moho"
+	- Any change in material will cause energy to be reflected back to surface
+		- Companies may look for salt because oil pools where salt is
+		- Can find groundwater using same technique
+- Mantle
+	- Low-velocity zone at 100-300 km depth. 1% melt
+	- P, S wave velocities increase through mantle
+	- Phase transitions at 410 km and 660 km (olivine) as mantle minerals which to denser lattices
+- Core
+	- P-waves entering core half in speed
+	- S-waves die
+	- P-waves gradually increase until inner core, then jump in speed
+	- S-waves are made from p-waves in inner core
+- Shadow zone
+	- 103-142 for p-waves (refraction through core)
+	- >103 for s-waves (blocked through core)
+		- Outer core must be liquid

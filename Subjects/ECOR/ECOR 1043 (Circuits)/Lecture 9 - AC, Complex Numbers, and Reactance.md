@@ -1,0 +1,95 @@
+
+[[9. Introduction_to_AC_F24.pdf]]
+
+---
+
+- Radians
+	- A radian is a measure of a central angle theta that intercepts arc s equal in length to the radius r of the circle.
+	- To convert degrees to radians, multiply by $\frac{\pi}{180}$
+	- To convert radians to degrees, multiply by $\frac{180}{\pi}$.
+- Sinusoids
+	- A sinusoid is a signal that has the form of the sine or cosine function
+	- A general expression for the sinusoid is $v(t) = V_msin(\omega t + \Phi)$ 
+		- $V_m$ = Amplitude in V or A
+		- $f$ = frequency in hertz
+		- $\omega = 2\pi f$ = Angular frequency in radians/s
+		- $T = \frac{1}{f}$ = Signal period
+		- $p$ = Phase (degrees or radians)
+	- Example
+		- Given $5sin(4\pi t - 60^o)$, calculate amplitude, phase, angular frequency, period, and frequency
+		- Amplitude $V_m = 5$
+		- Phase $p = -60^o$
+		- Angular frequency $\omega = 4\pi$
+		- Frequency $f = 2$
+		- Period $T = \frac{1}{2}s$
+- Complex Numbers ("Tash Numbers")
+	- More convenient to work with complex numbers
+	- Dealt with similar to vector in mechanics
+	- $\sqrt{-1} = j$
+	- Rectangular representation
+		- $z = x + jy = r(cos\ p + j\ sin\ p)$ 
+		- Normal coordinates
+	- Polar representation
+		- $Z = r \angle p$
+		- Magnitude and angle
+		- Magnitude from $r=\sqrt{x^2 + y^2}$ 
+		- Angle from $p = tan^{-1}(\frac{y}{x})$ 
+		- Multiplication
+			- $x_1x_2 = r_1r_2 \angle (p_1 + p_2)$
+- Resistance
+	- The friction against the flow of current
+	- It is present in all conductors. Most notable in resistors
+	- Symbol is R
+	- Measure is ohms
+	- Frequency independent
+- Reactance
+	- The inertia against the flows of currents
+	- Present anywhere electric or magnetic fields are developed in proportion to an applied alternating voltage or current
+	- It is present in capacitors and inductors.
+	- Frequency **dependent**
+	- Symbolized with X and measured in ohms
+- Impedance Z
+	- Comprehensive expressions of all forms of opposition to current flow
+		- Resistance and reactance
+	- Present in all circuits and components
+	- Complex quantity which may be expressed as $Z = R jX$ (rectangular form)
+	- Measured in ohms
+	- Magnitude is $Z = \sqrt{R^2 + X^2}$
+	- Can be combined using the same rules developed for resistors
+		- Add parallel
+		- Reciprocals of equivalent is equal to sum of reciprocals.
+	- Ohm's law holds for impedance
+		- $V = IZ$
+	- KVL and KCL hold for impedance
+- Capacitors
+	- Passive element
+	- Stores energy in its electric field
+	- Consists of two conducting plates separated by an insulator
+	- Capacitance C is the ratio of the charge q on a capacitor to the voltage difference v between the two plates, measured in farads (F)
+	- $q = C \times v$
+	- **Acts as an open circuit at DC (0hz) and a short circuit at very high-frequencies ($\infty$)**
+	- Each plate holds an electrical charge, one positive and the other negative
+	- Ideal capacitors do not dissipate energy. Only storing and supplying.
+	- Impedance of capacitor:
+		- $Z_C = \frac{1}{j\omega C}$ 
+		- $Z_C = \frac{-j}{\omega C}$ (multiplied by $\frac{j}{j}$ using $j^2 = -1$)
+		- $Z_C$ = $-jX_C$ 
+		- Where $X_C = \frac{1}{\omega C}$ is reactance
+- Inductors
+	- Passive element designed to store energy in its magnetic field
+	- Consists of a coil of conducting wire
+	- Uses inductance to oppose the charge of current flowing through it measured in Henry (H)
+	- Acts as a short circuit for DC (0Hz), and an open circuit for high frequencies ($infty$)
+		- Opposite of capacitors
+	- When current flows, it creates a magnetic field
+	- Does not dissipate energy
+	- "If you touch a microwave's capacitor, it will cause the current to flow through you and you will not be able to submit your lab because you are dead."
+	- The impedance is
+		- $Z_L = j\omega L$
+		- $Z_L = jX_L$ 
+		- Where $X_L = \omega L$ is the reactance of the inductor
+
+
+# $\frac{1}{j0.4}$
+
+= $\frac{j}{j^20.4}$ 

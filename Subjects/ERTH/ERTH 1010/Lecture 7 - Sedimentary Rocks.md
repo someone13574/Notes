@@ -1,0 +1,248 @@
+[[Lec7_Sed_Sept26upload.pdf]]
+
+---
+
+- Learning outcomes
+	- How rocks are converted to sedmientary rocks
+	- Difference between clastic and chemical rocks
+	- Know how clastic rocks are named by clast size
+	- Sediment maturity: roundndess, size, sorting, minerals present
+	- Sedimentary structures and relation to depositional setting
+	- Environments where chemical sediments form
+		- Inorganic chert
+		- Limestone
+		- Evaporites
+		- Organic limestones
+- Four processes to convert rocks to sediment at surface
+	- Weathering
+		- Breakdown of rocks
+		- Physical (abrasion, freezing), chemical (mostly water, desolves)
+	- Erosion
+		- Transportation of rocks to new location
+		- Wind
+		- Water
+		- Glaciers
+	- Deposition
+		- When mode of transportation can no longer transport it
+		- Sediment gets deposited
+		- Common locations
+			- River
+			- Lake
+			- Ocean
+	- Lithification
+		- Cementation and compaction of sediment
+		- Forms sedimentary rock
+- Types of Sedimentary Rocks
+	- Clastic
+		- Breakdown of rocks
+		- Transportation of particles
+		- Deposition
+		- Lithication
+	- Chemical
+		- Precipitation of minerals from water
+		- Lithification
+	- Common characteristic of bedding
+- Good record of climate
+	- Takes certain conditions to form certain sediments
+		- Ocean vs. land
+	- Layers give timeline of particular location
+- Clastic Sedimentary Rocks
+	- Formed of particles
+	- Most common minerals
+		- Quartz, Feldspar, Clay
+	- Named according to particle size
+		- >= 256 mm
+			- Boulders
+		- 64-256mm
+			- Cobbles
+		- 2-64 mm
+			- Pebbles
+		- 00625-2 mm
+			- Sand
+		- 0.002-0.0625 mm
+			- Silt
+		-  <= 0.002
+			- Clay
+	- Our categories
+		- > 2 mm
+			- Gravel
+		- 0.06-2 mm
+			- Sand
+		- < 0.06 mm
+			- Mud
+	- Gravel
+		- Angular = breccia
+		- Rounded = Congloerate
+		- Finer-grained matrix
+			- Sand or mud matrix in between pieces
+	- Sand
+		- Called sandstone if mostly make of sand
+		- If rock feels gritty on teeth, it is sand
+			- You can also rub between fingers
+				- Smooth is mud
+			- Most sandstone is quartz sandstone
+			- Arkose is feldspar-rich sandstone
+	- Mud
+		- Shale
+			- Horizontal cleavage
+		- Mudstone
+		- Either term is acceptable
+	- Types
+		- Breccia
+		- Conglomerate
+		- Sandstone
+		- Shale or mudstone
+	- Clastic Rock Properties
+		- Grain size
+		- Roundness
+			- Smooth vs sharp edges
+			- Tells distance travelled
+		- Sorting
+			- Distribution of grain sizes in rock
+			- Same size indicates long distance travelled
+			- Finer grains can travel further causing separation
+		- Mineral Composition
+			- What is it made of it
+			- How tough is it
+				- Physical and chemical
+			- Quartz and feldspar are dominant due to toughness
+				- Framework silicates are tough physically
+				- Feldspar breaks down faster due to poor chemical resistance
+				- Low temperature rocks
+			- Olivine, pyroxene, hornblende, micas are poorly resistant
+				- High temperature rocks
+		- Abrasion dictates grain size, roundness, sorting
+			- Close to source
+				- Large, Angular clasts, poorly sorted
+			- Far from source
+				- Smaller grains, more rounded clasts, better sorted.
+	- Maturity
+		- Mature
+			- Well sorted
+			- Find-grained
+			- Rounded
+			- Mostly quartz
+			- Far traveled
+		- Immature
+			- Poorly sorted
+			- Coarse
+			- Angular
+			- Little quartz
+			- Close to source
+	- Examples
+		- Conglomerate
+			- Large and small particles
+			- Somewhat rounded
+			- Poorly sorted
+			- Little quartz
+			- Immature
+		- Quartz Sandstone
+			- All sand-sized
+			- All rounded
+			- Well sorted
+			- 99% quartz
+			- Mature
+
+
+
+- Sedimentary Structures
+	- Deposited in layers
+		- Beds
+		- Strata
+		- Each layer is unique
+			- Records conditions under which particles were deposited
+			- Boundaries are when sediment is eroded
+			- Each event could be days, years, or million of years
+	- Conditions of layers recorded in sedimentary structures
+	- Lots of time record is missing due to erosion
+	- Cross-bedding
+		- Sand dunes
+		- River deposites
+		- Records alternating wind or current direction
+		- Particles are eroded from leading edge of dune and deposited on tailing side
+			- Perpendicular motion to dune
+		- Top is cut off by advance of dune
+	- Ripples
+		- Mostly form in water
+		- Eg. On breach
+		- Symmetric indicates bidirectional motion from waves
+		- Asymmetric indicates uni-directional motion from stream or river current
+			- Longer going up, fast going down
+			- Smaller scale cross-bed
+	- Mud cracks
+		- Muddy sediment dies, skrinks, and cracks
+		- Cracks can be filled with another sediment
+		- Only forms in dry environments with shallow water which dries
+	- Fossils
+		- Remains of organism
+			- Type of organism can indicate environment
+		- Only show dead organisms
+		- Shells, bones, petrified word, imprints of plants
+		- Trace fossils
+			- Burrows, trails, footprints
+	- Fithification
+		- Transformation of sediment into sedimentary rock
+			- As sediment is compacted, water moves up and out
+			- Edges of grains desolve into remaining as they are squeezed together
+			- Desolved mineral precipitates as cement around grains
+				- Cement can be silica, carbonate (common in oceanic settings), or iron oxide
+				- Acid will desolve carbonate *cement*. Grains will remain
+				- Iron oxide cement makes red sandstone
+
+
+
+### Chemical Sedimentary Rocks
+
+- Material precipitated from water
+	- Mostly minerals
+- Two types
+	- Inorganic
+		- Crystallised from supersaturated water
+	- Organic
+		- Organisms extract compounds from seawater to form shell
+		- Dies and sinks to bottom
+		- Compressed and turned into rocks
+		- Not made of minerals due to being biological but still a rock
+
+- Inorganic
+	- Silica
+		- Chert
+		- Opal
+			- Has water
+		- Microcrystalline
+		- Deposited in cavities in rocks
+			- Creates geodes
+			- Water sits in middle and forms quartz crystals
+		- Colors
+			- Come from inpurities carried in the water
+			- Red-brown = jasper
+			- Grey = flint
+			- Banded = agate
+	- Calcium carbonate or silica
+		- Preciptates inorganically at hot springs
+			- Travertine (CaCO3) or sinter (silica)
+		- Cold water: stalactites or stalagmites
+		- Limestone
+			- Ooids
+				- Require warm water
+					- CaCO3 desolves in cold water
+				- Calcium carbonate precipitates around sand grain cores or anything round
+	- Evaporites
+		- Precipitate due to evaporation of shallow lakes, inland seas
+		- Precipitate in order of increasing solubility
+			- Ca, SO4: Gypsum
+			- Na, Cl: Halite
+			- K, Cl: Sylvite
+				- Tastes bad
+		- Playa lakes
+		- Creates salt flats
+			- Perfectly flat
+- Organic
+	- Ca, CO2: limestone
+		- Most common chemical sediment
+		- Contain fossils
+		- Coral reefs are preserved as limestone and create oil reservoir rock
+	- SiO2
+		- Microfossils create chalk
+			- The chalk is different from chalk used on blackboard
+		- Plankton die and are deposited on the sea floor

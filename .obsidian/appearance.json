@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Cantarell",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 20
 }

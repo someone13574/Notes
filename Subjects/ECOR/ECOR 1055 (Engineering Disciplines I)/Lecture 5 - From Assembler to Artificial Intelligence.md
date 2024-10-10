@@ -1,0 +1,86 @@
+[[fromassemblertoaai.pdf]]
+
+---
+
+- Prof
+	- Civil engineering
+	- Aerospace engineering
+	- Mechanical engineering
+	- PHD
+	- Worked on early GPS
+- Flight management systems and avionics
+	- Worked on this too
+	- Put in start (runway, airport) and destination and the system will calculate the route and fly it
+- Canadian Marconi Company
+	- Worked on software for gps constellaton
+	- 20200 km altitudes, 55 degrees
+	- You need 3 satellites to know where you are
+	- 4 to get exact position
+	- Accurate to 20 ns
+		- Timing is important for accurate triangulation
+- The Control Display Unit Assembler Software
+	- CDU 
+	- He wrote this assembly for GPS
+	- Talked about interrupts
+		- Interrupt is a singal into a cpu which triggers some action
+	- When button is hit, an interrupt is triggered and something is written into the hardware address 170100 (in octal)
+	- Had different queues for interrupts based on priority
+		- Clock interrupt was most important
+	- Columns in assembly page (left to right)
+		1. Memory location in octal
+		2. Opcode
+			- The different instructions which the computer can execute
+	- Fortran Queue
+- Robot to solve rubix cube
+	- Made from parts of an old photocopy
+	- Connected laptop via parallel port
+		- Pins control motors
+	- Camera
+	- Made from wood
+	- Steps to solve
+		- Camera scans each side
+		- Laptop computes solution
+		- Robot executes solution
+- March Networks, 2001
+	- Built DVRs
+		- Used to record video for security applications
+	- Hired when on sabatical for year
+		- Hired to come up with system for improving speed and people tracking
+		- Had to do it on a TMS320C21
+		- He wrote code to track people
+			- Averages chunks of 32 pixels
+				- Mitigates noisy images
+				- Used 32 for fast division
+			- Converts pixels to either on or off to save memory
+			- Looks at which pixels change
+			- Video plots number of pixels on each axis in two histograms
+				- Used to create bounding box
+- Worked at company from Espial/Enghouse
+	- Writing code for TV Set Top Box
+	- Add 800,000 lines of code written by many people over many years
+	- Javascript/HTML
+	- Jenkins
+		- Compiled & linked software every night for many different different tv boxes
+	- Jira
+		- Terrible platform for planning and coordination
+	- SVN
+		- Old version control system before git (which is dominate today)
+		- Lots of companies went out of buiseniss because they couldn't figure out how to deal with lots of people working on the same code 
+	- Went over javascript and c code
+- Reinforcement learning
+	- Agent does action
+	- Gets feedback (reward from environment)
+	- Agent learns to to actions to maximize rewards
+	- Grid World Example
+		- Robot in 3x3 grid can move in one of four directions
+		- When it moves to cell 1, it immediately moves to cell 9 and gets a reward of +10. If the agent hits a wall, it remains in its current cell and gets a punishment of -1.
+	- Don't need to understand equations
+	- Pursuer Evader Game
+		- Car tries to hit pedestrian
+	- Most reinforcement learning these days is neural networks
+- Drones
+	- 3 drones follow small robot all controlled by neural networks
+	- Connected via 5g
+	- Map out area
+- CNN's and GAN's
+	- Image generation and classification

@@ -1,0 +1,31 @@
+[[F2024 ECOR1055C Lect_Taha_Introduction to Security and Cryptography.pdf]]
+
+---
+
+- Cryptography has been around for a long time (protect info if person is captured)
+- Goals
+	- Confidentiality
+	- Integrity
+	- Availability of data (available when needed)
+	- Authenticity
+	- More...
+- Three major players
+	- Mathematicians and Cryptographers
+	- Cryptographic Engineers
+	- Users
+- User Perspective
+	- Always initiate
+	- Protect Email
+	- Understand data breaches
+	- Use unique passwords
+	- Use password manager
+- Developer's Perspective
+	- Example: Design a program which can accept 8-bytes of user input and compares it against an 8-byte stored value
+		- Theoretical security: $18.4 \times 10^{18}$ possible values.
+		- If a computer can check 1 million per second, it takes 584,542 years to finish testing all cases.
+		- Decent security assuming there is no way to reverse the stored value
+		- Possible methods
+			- Just compare the bytes
+				- Very bad security
+				- Password is found if database is breached
+				- Early return can be used to determine each bit one by one if response time is measurable.

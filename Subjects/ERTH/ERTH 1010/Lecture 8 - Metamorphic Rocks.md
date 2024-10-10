@@ -1,0 +1,123 @@
+[[Lec8_Meta_Oct1upload.pdf]]
+
+---
+
+## Metamorphism
+
+- New minerals formed
+	- Old ones not stable at new temp and pressure
+	- Chemically active fluids (H2O, CO2)
+- New textures
+	- Arrangement of minerals in rock
+- Types
+	- Contact metamorphism
+		- Cooling pluton releases heat into surrounding rocks
+		- Increase in temperature causes recrystallization
+		- Metamorphic aureole
+		- Rock name = hornfels
+			- Rings when struck with hammer
+		- Examples
+			- Lava flowed over mudstone
+				- Makes baked mudstone
+			- Still of basalt going through limestone
+				- Creates layer of marble.
+				- Grain sized increased from original limestone
+	- Regional metamorphism
+		- Increase in temperature and pressure due to burial
+		- Grade of metamorphism is determined by depth
+			- Close to surface is sedimentary
+			- Low, medium, and high grade
+			- If temperature increases too much at a given depth, the rock is not metamorphic, it is igneous (partially melt)
+			- Low temps for a given temp are never realized on earth
+		- Grades
+			- Low grade
+				- Rock get harder
+				- More compact (interlocking crystals, parallel)
+				- Minor increase in grain size
+			- Medium grade
+				- Grain size increases
+				- New mica crystals form
+			- High grade
+				- Grains recrystallize with preferred orientation
+				- Orientation = foliation
+				- Not all metamorphic rocks are foliated
+					- Sandstone to quartzite: grains only grow
+			- Foliated rocks in increasing grade
+				- Slate: planar cleavage, fine-grain
+				- Phyllite: cleavage, rock "sheen"
+				- Schist: large micas, platy look
+				- Gneiss: layered, often folded
+					- "Nice"
+					- Gneissic banding quartz & feldspar, hornblende/amphibole & mica
+				- Migmatite: partially melted
+					- Contains pockets of igneous rocks
+					- On boundary of high-grade and igneous
+					- Ribbons of quartz and K-feldspar (melt) in biotite and hornblende matrix
+					- Looks like gneiss except melt ribbons crosscut foliation
+					- Quartz and K-feldspar euhedral
+						- Coarse-grain
+						- IGNEOUS
+			- Non-foliated
+				- Quartzite: metamorphic sandstone
+					- Sandstones doesn't have much other than quartz
+					- Cannot make new minerals, there is only quartz
+					- Can only reshape quartz
+				- Marble: metamorphic limestone
+					- Coarse grains of calcite
+				- Amphibolite: metamorphic basalt
+					- Medium grade
+				- Eclogite: metamorphic basalt
+					- High pressure (not high temperature) (low T high P)
+					- High-grade
+					- Green pyroxene
+					- Red garnets.
+					- Very recognizable.
+		- Location
+			- Typically occures in continent-continent collisions
+				- Crust may be doubled in thickness
+				- Continent tries to go down, cut cannot due to low density
+				- They lock up
+				- Crustal rocks go to deep depth.
+			- Ordering
+				- Mountains
+				- Folder, unmetamorphosed sedimentary rock
+				- Slate
+				- Phyllite
+				- Mica schist
+				- Garnet-mica schist
+				- Gneiss
+				- Migmatite
+			- Low T, high P
+				- Along the wavy line (never realized boundary)
+				- Only occurs during subduction of oceanic lithospheric late
+				- The plate is cold and slow to heat by conduction
+				- Plunges quickly to great depth and pressure
+				- Examples
+					- Glaucophane amphibole is blue and very diagnostic
+					- Eclogites: green matrix with red garnet
+				- Very rare but very diagnostic of origin
+	- Metasomatism
+		- Interaction between hot fluids and rocks
+		- Fluids released from cooling plutons
+		- Heat from cooling pluton can cause convection of groundwater already in the rock to circulate
+		- Fluids have dissolved ions that react with rocks
+		- Examples
+			- Limestone -> skarn
+			- Basalt -> greenstone
+		- Minerals
+			- Porphyroblasts
+				- Large
+				- Euhedral crystals
+					- Euhedral means crystal faces are perfectly developed
+				- Grew in solid state
+					- In igneous rocks crystals are formed from a melt
+				- Garnet
+				- Andalusite
+				- Staurolite
+				- Chloritoid
+- Index Minerals
+	- Certain minerals form only under particular P-T conditions: index minerals
+	- Can use index minerals to determine P and T of metamorphism of rock
+	- 1 Gpa = 10 kbars ~= 30 km
+	- Minerals with the same composition but different crystal structures can be very different.
+		- Can tell depth of rocks
