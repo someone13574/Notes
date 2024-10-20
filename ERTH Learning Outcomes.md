@@ -1,0 +1,24 @@
+- Understand the processes by which the solar system, Earth, and Moon formed
+- Know what are meteorites, and what they tell us about our solar system
+- Know how we measure the age of rocks, and know the major events that occurred during the first billion years of Earth existence
+-  Know the definition of a mineral
+- Know the structure of the silicon tetrahedron
+- Know the give silicate mineral groups: isolated, single chain, double chain, sheet framework
+- Know what physical properties distinguish minerals
+- Understand that Earth shells have different composition, minerals
+- Know the three kinds of feldspar minerals
+- Understand the Rock cycle
+- Know that igneous rocks form by cooling of melts of the mantle or (rarely) crust
+- Understand the difference between volcanic and plutonic igneous rocks
+- Know how the name an igneous rock - textures, minerals, chemistry
+- Understand how the mantle can melt
+- Know Bowen's Reaction Series
+- Know the names of plutonic rock structures
+- Know the five types of volcanic structures
+- Know the important volcanic products - lava, pyroclastic material, gas
+- Understand potential volcanic hazards
+- Understand how rocks are converted to sedimentary rocks by weathering, erosion, deposition, lithification
+- Know the difference between clastic and chemical sedimentary rocks
+- Know how clastic rocks named by clast size
+- Understand sediment maturity: roundness, size, sorting, minerals present
+- Know sedimentary structures and relation to depositional setting

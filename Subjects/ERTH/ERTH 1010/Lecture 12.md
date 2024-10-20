@@ -1,0 +1,51 @@
+[[Lec12_Grav2_Oct15upload.pdf]]
+
+---
+
+- Gravity review
+	- g is a function of R and Mass
+	- Gravimeters are used to measure gravity
+		- Units are milligals
+		- 10 km change in crustal thickness is ~20 mgal
+	- Corrections must be made to make measurements useful
+		- Free air corrects for elevation
+		- Bouguer correct sfor mass of column beneath station to sea level
+		- $g_B = g_{obs} - g_{\lambda} + FAC - BC$ 
+	- Gravity anomalies
+		- Excess mass = positie
+		- Deficiency of mass = negative
+	- Isostacy: thick mountain belts underlain by low-density roots
+- Learning outcomes
+	- Understand the theory of isostacy
+		- Crust floats on mantle
+	- Pratt vs. Airy models of isostacy
+	- Understand how Bouguer anomalies indicate state of isostatic equilibrium
+	- Understand the effects of glacial ice on the crust
+	- Understand why geology can be a major influence on damage due to natural hazards
+- Airy Conclusion
+	- Mountain underlain by deep, low-density root
+	- Displaces high density mantle
+	- Was the first formulation of the principle of isostacy
+		- Large crustal masses that extend high above sea level are compensated by underlying low-density masses
+	- Airy model
+		- Consider blocks of wood floating in water
+		- Wood floats because it is less dense that water
+			- Thicker blocks protrude higher, but also extend deeper
+		- Submerged part is its root
+		- Results in deeper root of less dense material in addition to higher height
+	- Isostacy Reality
+		- Crust blocks exert weight on underlying mantle
+		- This causes the mantle to flow over a long time scale
+		- Crust floats on mantle
+		- Depth to which flow in mantle occurs is called compensation depth
+		- At this depth and pressure, all columns are equal
+		- Only occurs when all movements has stopped.
+	- Airy model problem
+		- Assumes all blocks have the same density
+	- Pratt Isostacy Model
+		- Proposed model where wood blocks have different densities
+		- Lower density blocks on inside
+		- Dense rocks on outside
+		- Low density blocks float higher than denser blocks
+		- Achieves equilibrium through lateral variation in density.
+		- Pratt's is flat and Airy's varies

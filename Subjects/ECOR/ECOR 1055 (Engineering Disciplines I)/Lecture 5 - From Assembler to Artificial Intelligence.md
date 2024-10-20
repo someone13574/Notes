@@ -59,18 +59,11 @@
 	- Writing code for TV Set Top Box
 	- Add 800,000 lines of code written by many people over many years
 	- Javascript/HTML
-	- Jenkins
-		- Compiled & linked software every night for many different different tv boxes
-	- Jira
-		- Terrible platform for planning and coordination
-	- SVN
-		- Old version control system before git (which is dominate today)
-		- Lots of companies went out of buiseniss because they couldn't figure out how to deal with lots of people working on the same code 
+	- Used new things like Eclipse IDE, Jenkins, Jira, Codereview, and SVN
+		- Talked about how companies without vsc died
 	- Went over javascript and c code
-- Reinforcement learning
-	- Agent does action
-	- Gets feedback (reward from environment)
-	- Agent learns to to actions to maximize rewards
+- Reinforcement learning brief tutorial
+	- Value functions $V^\pi (s)$ and $Q^\pi (s)$ 
 	- Grid World Example
 		- Robot in 3x3 grid can move in one of four directions
 		- When it moves to cell 1, it immediately moves to cell 9 and gets a reward of +10. If the agent hits a wall, it remains in its current cell and gets a punishment of -1.
@@ -78,6 +71,17 @@
 	- Pursuer Evader Game
 		- Car tries to hit pedestrian
 	- Most reinforcement learning these days is neural networks
+	- Guarding A territory game
+		- Invador tries to get as cloes as possible to territory
+		- Guard tries to stop them
+		- Vincent made simulations using RL
+		- Hashem made actual robots follow the paths made in the simulation
+	- The adaption laws (not much time spend)
+	- Guarding a Territory with Deception
+		- Several goal
+		- Invader has one true goal
+		- Defender must protect all goals
+	- Robots learning to leave a room
 - Drones
 	- 3 drones follow small robot all controlled by neural networks
 	- Connected via 5g

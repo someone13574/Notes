@@ -1,0 +1,101 @@
+[[Lec11_Grav_Oct10upload.pdf]]
+
+---
+
+- Learning outcomes
+	- Gravity Varies on Earth
+		- Elevation, Density
+	- Gravity surverys require corrections for latitude, elevation, surface rock density
+	- Free Air and Bouguer anomalies
+	- Thin lithosphere has negatibe Bouguer anomaly, thick lithosphere positive
+	- Understand how Bouguers anomaies are used to hunt for petroleum-mineral deposits
+	- Why are continents above sear level
+	- Why is the oceanic crust submerged
+	- Why do some plateaus sit several km above sea level when average elevtion is 1 km.
+- Newton and the Laws of Gravity
+	- Any two masses exert an attractive force between them
+	- $F_g \approx \frac{M_1 \times m_2}{r^2}$ 
+	- On Earth, this force is NOT constant; function of r and rock density.
+	- Your weight varies depending on where you are
+		- Equator: 175 lbs
+		- North Pole: 176 lbs
+		- Mt. Everest: 174.9 lbs
+	- Why?
+		- r is lower at the pole than at the Equator (Earth isn't a sphere), whereas r is higher on Mt. Everest than at sea level.
+			- g is lower at higher r
+- Gravimeters
+	- Arm is held by spring
+	- Gravity pulls down
+- Variations in g
+	- Variations in g expressed in milligals (mgal)
+	- 1 gal = $0.01 m/s^2 = 1 cm/^2$ 
+	- 1 mgal = $10^{-5} m/s^2$  (about 1 millionth of g)
+- Typical Variations
+	- Sedimentary rocks are 10 mgal lower than igneous
+	- Every 10 km change in crustal thickness is $\approx 20 mgal$ 
+	- Every 100 km change in thickness of lithosphere is $\approx 200 \text{ mgal}$ 
+![[Pasted image 20241010161712.png]]
+
+- Most of inland is low g because crustal rocks are low density compared to oceanic crust
+
+
+- Pull of Gravity
+	- At any point on Earth
+		- $F_g = m \times g (g = \text{acceleration of gravity})$ 
+		- ON AVERAGE, $g = 9.81 m/s^2$ 
+		- 9.78 at equator, 9.832 at poles
+	- ![[Pasted image 20241010162143.png]]
+- Simpilfied example: Gravity Survery
+	- Uniform rock density, constant r
+	- Goal: find metalic ore; dense, strong g
+	- This is complicated in reality
+- Better Example:
+	- There are two effects
+		- Topography (r)
+		- Density (m)
+	- Useful Gravity Maps
+		- Depend on corrections made to observed g along survey points
+		- Goal is to elimate variations due to height r and surface geology
+		- Corrections
+			- Latitude $\lambda$:  Earth oblate spheriod; correct to Equator
+				- $g_\lambda = 978031.85 (1.0 + 0.005278895 sin^2(lat) + 0.000023462 sin^4(lat)) (mGal)$ 
+				- $g_\lambda$ increases from zero at Equator to maximum at Poles as $r$ decreases, so *subtract* from $g_{obs}$, thus corrects to value at Equator.
+					- $g_{corr} = g_{obs} - g_\lambda$ 
+			- Elevation r: correct to constant elevation; correct to sea level
+				- $g_F = g_{obs} - g_{lamdba} + \delta g_f$ 
+				- Sea level is a good reference since it pulls water to a constant level
+				- Ignores anything between sea level and point. Thus "Free air"
+				- $\delta g_F = -\frac{2g}{R} \times h$ 
+				- Sea Surface Gravity
+					- Sea surface undulates due to topography on sea floor
+					- Sea surface rises over submarine volcanoes and ridges due to excess pull of gravity on water
+					- Only a few cm/mm
+					- Over trenches, sea surface drops due to deficiency in gravity
+					- Geoid defines surface where gravity is always perpendicular to sea surface
+			- Density variations: correct for $p$ in rocks at Earth surface
+				- Bouguer density
+				- Requires geology info at surface
+					- Result: investigates density variations at depth
+				- $g_B = g_{obs} + \delta g_F - \Delta g_B$ 
+				- $\Delta g_B \approx G \rho h$ 
+					- $g_B$ = Bouguer Anomaly
+					- $\Delta g_B$ = Bouguer correction
+					- G = constant of gravitation $6.67 \times 10^{-11} \frac{N \cdot m^2}{kg^2}$ 
+					- $\rho$ = density of rock
+					- h = height about reference level (sea level)
+					- Typical correction: -42 mgal per km height
+
+- Free Air over mountains in Americas are smaller than expected
+- Isostacy
+	- Sir George Airy during Great land Survery of India
+	- One thing you need to know up and down
+	- Handing mass is used
+	- If a mountain belt was to side, angle would change (very small)
+		- Smaller than expected, meaning there is less excess mass
+		- Initial assumption: crust-mantle boundary is flat, so no effect of mantle on gravity
+		- Reality: As crust thickens, it grows down as well. Low-density crust root pushes down high-density mantle
+		- Principle of Isostacy
+			- Large crustal masses that extend high above sea level are compensated by underlying low-density masses
+			- Like iceberg
+				- Ice is less dense than water
+				- Floats on water but still displaces it.

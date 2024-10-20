@@ -4,40 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9de5d4b1e49239",
+        "id": "ceb26f789f20f3b3",
         "type": "tabs",
-        "dimension": 42.959427207637226,
         "children": [
           {
-            "id": "85dae0a6cf012169",
+            "id": "04232f40a66982fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
+                "file": "Subjects/CHEM/CHEM 1101/Lecture 8.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 8"
             }
-          }
-        ]
-      },
-      {
-        "id": "c85c7f2bc502e266",
-        "type": "tabs",
-        "dimension": 57.04057279236277,
-        "children": [
+          },
           {
-            "id": "af090cfcda8b11f9",
+            "id": "4bc22b0ab01f9255",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Subjects/ECOR/ECOR 1043 (Circuits)/media/L11/Lowpass, Highpass Filters_F24.pdf"
-              }
+                "file": "Subjects/CHEM/CHEM 1101/media/L8/Class 8- Hybridization and MO diagrams1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Class 8- Hybridization and MO diagrams1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,13 +65,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maximum power",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 13 - Heat Flow"
             }
           },
           {
@@ -120,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture 13 - Heat Flow"
             }
           },
           {
@@ -134,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md"
-              }
+                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 13 - Heat Flow"
             }
           },
           {
@@ -152,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -174,53 +187,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85dae0a6cf012169",
+  "active": "4bc22b0ab01f9255",
   "lastOpenFiles": [
-    "Pasted image 20241010145347.png",
+    "Subjects/CHEM/CHEM 1101/Lecture 8.md",
+    "Subjects/CHEM/CHEM 1101/Lecture 9 - Band Theory.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
+    "Subjects/ERTH/ERTH 1010/media/L13/Lec13_Heat_Oct17upload.pdf",
+    "Subjects/ERTH/ERTH 1010/media/L12/Lec12_Grav2_Oct15upload.pdf",
+    "Subjects/ERTH/ERTH 1010/media/L13",
+    "Subjects/ERTH/ERTH 1010/Lecture 12.md",
+    "Subjects/ERTH/ERTH 1010/media/L12",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 12.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L12/Bandpass_Filters_F24.pdf",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L12",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 11.md",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L11/ECOR1041_L11_lists.pdf",
+    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L11",
+    "Subjects/ECOR/ECOR 1055 (Engineering Disciplines I)/Lecture 5 - From Assembler to Artificial Intelligence.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/media/L11/Lowpass, Highpass Filters_F24.pdf",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L10/FrequencyResponse_F24.pdf",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L11",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 10.md",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L10/ECOR1041_L10_strings_input.pdf",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/Untitled",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L10",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 7.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/media/L7/7. Thevenin_Norton_F24.pdf",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 8 - Source Transformation & Superposition.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 6 - Multi-loop Analysis.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 5 - Multi-Node Analysis.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 4 - Resistive Circuit and Single Node Circuits.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 3.md",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 6 - Function Design Recipe.md",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 5.md",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 4.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 9 - Band Theory.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 8.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 6 - Lewis Structures.md",
-    "Subjects/ERTH/ERTH 1010/media/L7/Lec7_Sed_Sept26upload.pdf",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 10.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 3.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 5.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 4.md",
+    "ERTH Learning Outcomes.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 2 - Our Solar System Geochronology.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 1.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 8 - Metamorphic Rocks.md",
     "Subjects/ERTH/ERTH 1010/Lecture 7 - Sedimentary Rocks.md",
     "Subjects/ERTH/ERTH 1010/Lecture 6.md",
-    "Subjects/CHEM/CHEM 1101/media/L7/Class 7-VSEPR.pdf",
-    "Subjects/CHEM/CHEM 1101/Lecture 7 - VSEPR.md",
-    "Subjects/CHEM/CHEM 1101/media/L6/Class 6-lewis structures.pdf",
-    "Excalidraw/Lecture 7 - VSEPR 2024-09-30 09.05.56.excalidraw.md",
-    "Excalidraw/Lecture 7 - VSEPR 2024-09-30 08.52.46.excalidraw.md",
     "temp.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 3.md",
-    "Subjects/CHEM/CHEM 1101/media/L6/Excalidraw/Lecture 6 - Lewis Structures 2024-09-25 09.02.19.excalidraw.md",
-    "Subjects/CHEM/CHEM 1101/media/L6/Excalidraw/Lecture 6 - Lewis Structures 2024-09-25 08.44.47.excalidraw.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 5.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 4 - Periodicty.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 2.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 1 - Introduction and Significant Digits.md",
-    "Pasted Image 20241007094611_520.png",
-    "Pasted Image 20241007090621_594.png",
-    "t/Pasted Image 20241002095210_053.png",
-    "t/Pasted Image 20241002094137_136.png",
-    "t/Pasted Image 20241002093658_439.png",
-    "t/Pasted image 20241002091159.png",
-    "t/Pasted image 20241002085602.png",
-    "t/Pasted Image 20240930090600_802.png",
-    "t/Pasted image 20240930090417.png",
-    "t/Pasted Image 20240930085253_607.png"
+    "Subjects/ERTH/ERTH 1010/Lecture 11 - Gravity and Isostacy.md",
+    "Pasted image 20241010162143.png",
+    "Pasted image 20241010162135.png",
+    "Pasted image 20241010161712.png",
+    "Pasted image 20241010154734.png",
+    "Pasted image 20241010154408.png",
+    "Pasted image 20241010154353.png",
+    "Pasted image 20241010153638.png",
+    "Pasted image 20241010151823.png",
+    "Pasted image 20241010150835.png",
+    "Pasted image 20241010145347.png",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 3.md"
   ]
 }
