@@ -1,0 +1,58 @@
+[[Lecture 4 - Motors, Drives, Unsigned Binary, Boolean Logic Gates and Algebra.pdf]]
+
+---
+
+- Digital
+	- Discrete/finite
+	- Limited set of values which can be represented
+	- Better precision and robustness from noise
+	- Higher latency
+	- Higher power consumption greater complexity
+	- Easier to reprogram and reconfigure
+	- Better long-term storage
+- Analog
+	- Continuous
+	- Exposed to noise and signal degradation
+	- Precision is limited and quality of components
+	- Small variations in the signal can lead to inaccuracies
+	- Infinite resolution
+	- Smoother and faster real-time responses
+- Hybrid
+	- Uses both analog and digital components
+- Binary
+	- Number system wth only two digits: 0 and 1
+		- Also known as Base-2
+	- Foundation of digital computing isnce it maps easily onto two states: on (1) and off (0).
+	- Beyond 1, we 'carry' the 1 to the left and reset the symbol to the right of 0, resulting in 10 (two).
+	- Each 1 or 0 is a bit
+	- 4 bits is a nibble
+	- 8 bits is a byte
+
+- Logic gates
+	- Not
+		- Inverts a bit
+		- x with bar on top
+		- 0 -> 1
+		- 1 -> 0
+	- And
+		- Outputs 1 if both inputs are 1
+		- ab or $a \cdot b$ 
+		- 0 0 -> 0
+		- 0 1 -> 0
+		- 1 0 -> 0
+		- 1 1 -> 1
+	- Or
+		- Outputs 1 if either input is 1
+		- a + b
+		- 0 0 -> 0
+		- 0 1 -> 1
+		- 1 0 -> 1
+		- 1 1 -> 1
+	- XOR
+		- a (+) b
+		- Returns if exactly one of a or b is 1
+		- 0 0 -> 0
+		- 0 1 -> 1
+		- 1 0 -> 1
+		- 1 1 -> 0
+- 

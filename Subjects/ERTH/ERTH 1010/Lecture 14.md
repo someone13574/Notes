@@ -1,0 +1,50 @@
+[[Lec14_Mag_Oct29upload.pdf]]
+
+- Learning outcomes
+	- Know the difference between geographic and magnetic North and South Poles
+	- Know that Earth’s magnetic field has two components – dipole (bar magnet) and non-dipole field
+	- Understand declination vs. inclination
+	- Know that rock magnetism lost above the Curie Point (temperature)
+	- Understand that field is due to convection in the core 
+	- Understand that the field reverses polarity on average every 0.5 Ma 
+	- Understand that paleomagnetism (magnetic inclination) tracks the latitude where continents were in the past
+- The magnetic field
+	- Earth's magnetic field result from the internal properties of the planet
+	- Protects the planet from solar radiation
+	- Helpful for navigation
+	- William Gilbert proposed that the Earth was a large bar magnet
+- Magnetic vs. Geographic North
+	- Geographic North
+		- Where the spin axis is in the northern hemisphere
+		- North pole is 90 degrees N latitude
+		- This is constant
+	- Magnetic north
+		- The direction the compass points, not constant
+	- Declination
+		- Angle between magnetic and geographic North
+- Orientation of the field
+	- Field lines go from the south pole to the north pole
+	- The field is parallel to the surface at the equator
+	- The field is perpendicular to the surface at the poles
+	- Inclination
+		- Angle between horizontal and the orientation of the field lines
+- Where does the magnetic field come from
+	- Comes from inside of the Earth
+	- Magnetic rocks heated to greater than 570 degrees C makes it non-magnetic
+		- Curie Point
+		- Property of all magnetic minerals
+	- Therefore molten or hot rocks cannot be magnetic
+	- All rocks deeper than 25 km are above Curie Point
+	- **Geodynamo**
+		- A moving electrical conductor in a magnetic field generates a current
+		- This current then generates a magnetic field
+		- Earth has a natural dynamo
+			- The outer core of conductive liquid Ni-Fe alloy convecting due to heat loss
+		- Analogy
+			- A magnetic field runs through a spinning disk
+			- This generates current
+			- The current runs through a coil
+			- This generates a magnetic field
+			- This generates more current
+			- Etc.
+		- We have not firm understanding of the geodynamo

@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb26f789f20f3b3",
+        "id": "f1dc9ce742c10747",
         "type": "tabs",
         "children": [
           {
-            "id": "04232f40a66982fb",
+            "id": "ccdac191052e002f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/CHEM/CHEM 1101/Lecture 8.md",
+                "file": "Subjects/ECOR/ECOR 1044 (Mechantronics)/Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8"
-            }
-          },
-          {
-            "id": "4bc22b0ab01f9255",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Subjects/CHEM/CHEM 1101/media/L8/Class 8- Hybridization and MO diagrams1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Class 8- Hybridization and MO diagrams1"
+              "title": "Lecture 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "e467cbc3edd55be4",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
+                "file": "Subjects/CHEM/CHEM 1101/media/L8/Class 8- Hybridization and MO diagrams1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 13 - Heat Flow"
+              "title": "Backlinks for Class 8- Hybridization and MO diagrams1"
             }
           },
           {
@@ -125,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
+                "file": "Subjects/CHEM/CHEM 1101/media/L8/Class 8- Hybridization and MO diagrams1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 13 - Heat Flow"
+              "title": "Outgoing links from Class 8- Hybridization and MO diagrams1"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md"
+                "file": "Subjects/CHEM/CHEM 1101/media/L8/Class 8- Hybridization and MO diagrams1.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 13 - Heat Flow"
+              "title": "Outline of Class 8- Hybridization and MO diagrams1"
             }
           },
           {
@@ -173,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,53 +174,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bc22b0ab01f9255",
+  "active": "ccdac191052e002f",
   "lastOpenFiles": [
-    "Subjects/CHEM/CHEM 1101/Lecture 8.md",
-    "Subjects/CHEM/CHEM 1101/Lecture 9 - Band Theory.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 13 - Heat Flow.md",
-    "Subjects/ERTH/ERTH 1010/media/L13/Lec13_Heat_Oct17upload.pdf",
-    "Subjects/ERTH/ERTH 1010/media/L12/Lec12_Grav2_Oct15upload.pdf",
-    "Subjects/ERTH/ERTH 1010/media/L13",
-    "Subjects/ERTH/ERTH 1010/Lecture 12.md",
-    "Subjects/ERTH/ERTH 1010/media/L12",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 12.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L12/Bandpass_Filters_F24.pdf",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L12",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/Lecture 11.md",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L11/ECOR1041_L11_lists.pdf",
-    "Subjects/ECOR/ECOR 1041 (Comp & Prog)/media/L11",
-    "Subjects/ECOR/ECOR 1055 (Engineering Disciplines I)/Lecture 5 - From Assembler to Artificial Intelligence.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L11/Lowpass, Highpass Filters_F24.pdf",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 7.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/media/L7/7. Thevenin_Norton_F24.pdf",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 8 - Source Transformation & Superposition.md",
+    "Pasted image 20241112144751.png",
+    "Subjects/ECOR/ECOR 1044 (Mechantronics)/media/L5/Lecture 5 - AC Power, Analog to Digital Conversion.pdf",
+    "Subjects/ECOR/ECOR 1044 (Mechantronics)/Lecture 5.md",
+    "Subjects/ECOR/ECOR 1042 (Data)/Lecture 5.md",
+    "Subjects/ECOR/ECOR 1044 (Mechantronics)/media/L5",
+    "Subjects/ECOR/ECOR 1042 (Data)/media/L5/ECOR1042_L05_modules_unit_testing.pdf",
+    "Subjects/ECOR/ECOR 1042 (Data)/media/L5",
+    "Subjects/CHEM/CHEM 1101/Lecture 15.md",
+    "Subjects/CHEM/CHEM 1101/media/L15/Class 15- stoichiometry1.pdf",
+    "Excalidraw/Lecture 15 2024-11-11 08.46.49.excalidraw.md",
+    "Pasted Image 20241111084653_344.png",
+    "Subjects/CHEM/CHEM 1101/media/L15",
+    "Subjects/CHEM/CHEM 1101/media/Untitled.md",
+    "Subjects/CHEM/CHEM 1101/Lecture 14.md",
+    "Subjects/CHEM/CHEM 1101/media/L14/Class 14- solutions- annotated Nov 6th.pdf",
+    "Subjects/CHEM/CHEM 1101/media/L14",
+    "Subjects/CHEM/CHEM 1101/Lecture 13 - Phase Changes.md",
+    "Subjects/CHEM/CHEM 1101/Lecture 12 - Solids.md",
+    "Subjects/CHEM/CHEM 1101/media/L12/Class 12- solids.pdf",
+    "Subjects/CHEM/CHEM 1101/media/L13/Class 13- phase changes2.pdf",
+    "Subjects/ERTH/ERTH 1010/Lecture 17.md",
+    "Subjects/ECOR/ECOR 1044 (Mechantronics)/Lecture 4.md",
+    "Subjects/ECOR/ECOR 1042 (Data)/Lecture 4.md",
+    "Subjects/ERTH/ERTH 1010/Lecture 16.md",
+    "Subjects/ECOR/ECOR 1044 (Mechantronics)/Lecture 3.md",
+    "Subjects/ECOR/ECOR 1042 (Data)/Lecture 3.md",
+    "Subjects/ECOR/ECOR 1055 (Engineering Disciplines I)/Lecture 6.md",
+    "Excalidraw/Lecture 12 - Solids 2024-11-04 09.18.11.excalidraw.md",
+    "Pasted Image 20241104091818_228.png",
+    "Subjects/ERTH/ERTH 1010/Lecture 14.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 6 - Multi-loop Analysis.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 5 - Multi-Node Analysis.md",
     "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 4 - Resistive Circuit and Single Node Circuits.md",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 10.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 3.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 5.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 4.md",
-    "ERTH Learning Outcomes.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 2 - Our Solar System Geochronology.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 1.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 8 - Metamorphic Rocks.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 7 - Sedimentary Rocks.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 6.md",
-    "temp.md",
-    "Subjects/ERTH/ERTH 1010/Lecture 11 - Gravity and Isostacy.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 3.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 2 - Resistive Circuits.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 1 - Basic Concepts.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 12.md",
+    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 11 - Passive Filters.md",
+    "Pasted image 20241028093147.png",
     "Pasted image 20241010162143.png",
     "Pasted image 20241010162135.png",
     "Pasted image 20241010161712.png",
     "Pasted image 20241010154734.png",
     "Pasted image 20241010154408.png",
     "Pasted image 20241010154353.png",
-    "Pasted image 20241010153638.png",
-    "Pasted image 20241010151823.png",
-    "Pasted image 20241010150835.png",
-    "Pasted image 20241010145347.png",
-    "Subjects/ECOR/ECOR 1043 (Circuits)/Lecture 3.md"
+    "Pasted image 20241010153638.png"
   ]
 }

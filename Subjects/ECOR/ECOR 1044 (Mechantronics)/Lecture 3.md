@@ -1,0 +1,31 @@
+[[Lecture 3 - Implementation, Input and Output Devices.pdf]]
+
+---
+
+- Marrette contectors are for high voltage wires
+- A.W.G = American wire guage
+	- Higher the wire guage, the lower the current
+- Heat shrink: Just used to make things neater
+- Boards:
+	- Solderless breadboard
+	- Stripboard
+	- Printed Circuit Board
+- Soldering
+	- Process in which two or more metal items are joined by metling the flowing a filler metal into the join
+- Input devices
+	- A hardware or peripheral device used to send data to a computer
+- Output devices
+	- A device used to send data from a computer to another device
+- I/O devices: Sensors
+	- Mechanically
+		- Position
+		- Distance
+		- Stress
+		- Acceleration
+		- Rotation
+	- Environment
+		- Temperature
+		- Humidity
+		- Pressure
+		- Light
+		- Sound

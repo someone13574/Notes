@@ -1,0 +1,110 @@
+[[Lec16_PlTec2_Nov5upload.pdf]]
+
+---
+
+- Review
+	- Catastrophism
+		- Earth is only 6000 years old
+		- Everything has to happen fast
+	- Uniformitarianism
+		- Everything has to happen slow
+	- Wegener and continential Drift
+		- 5 pieces of evidence
+		- Wasn't accepted
+			- Didn't have driving force
+	- Post-WW11 Seafloor spreadinging
+		- Both oceans *and* continents moving
+- Learning outocmes
+	- Know evidence suporting three kinds of plate boundaries
+		- Divergent
+		- Convergent
+		- Transform
+	- Understand processes that occur at plate boundaries
+	- Know the structure of lithospheric plates
+		- Mantle, crust
+		- Move over asthenosphere
+- Convergent Margins
+	- If new crust is being created, old crust must be destroyed to keep surface area constant
+	- After WW2
+		- Lithosphere is recycled into mantle at convergent margins by subduction
+		- Oceanic lithosphere gets older, colder, and denser with time
+			- Eventually sinks
+	- Three types of Convergence
+		- Convergence of two oceanic plates
+			- Subducting slab
+			- Creates deep see trenches
+				- Partially filled by sediment
+			- Creates accretionary prism
+				- Some sediment from volcanic arc
+			- Water moves upward and causes mantle to melt
+				- Creates volcanic arc
+		- Convergence of oceanic and continential plates
+			- "Andean"
+			- Still has accretionary prism
+			- Water thickens creates magma
+				- Cannot penetrate continental crust
+				- Melts crust, assimilates
+			- Explosive eruptions
+		- Continental-continental convergence
+			- Low-density material does not want to subduct
+			- Crustal material tends to get scaped up and added to the other plate
+				- Nearly doubles thickness of the crust
+			- Lithospheric mantle still subducts due to being denser
+				- Crust still gets scaped off
+			- No melting of the mantle
+				- No water
+	- Evidence for subduction
+		- Saw earthquakes in mantle
+			- Mantle cannot have earthquakes due to being brittle
+			- Brittle rocks must be descending into the mantle
+		- Lithospheric plate remains cooler than mantle around it
+		- Mantle tomography shows fast (cold, dense) zone that corresonds with the same area as the earthquakes
+			- Shows cold layer of material near plate boundaries
+			- Can be tracked all the way to core-mantle boundary
+		- Bouguer gravity is negative due to plate bending downwards, pushing asthenosphere down
+			- Replaced with *seawater*
+			- ~Normal heatflow
+		- Gravity is high where plate is doubled (fore arc)
+			- Very low heatflow due to two plates
+		- Volcanic arc
+			- Very high heatflow
+			- Melting of mantle, magmas
+			- ~Normal gravity
+				- Slightly lower due to slightly thinner plate
+					- Continues into back-arc
+		- Magmatic arc
+			- Plate is too thick to cause decompression melting
+			- Real cause: water is released which lowers melting point
+- Transform margins
+	- In diagrams, bulging plate is overriding
+	- The section between the two spreading centers the plates are travelling in different directions
+		- This creates earthquakes
+	- Beyond that point, they travel in the same direction
+		- No earthquakes
+		- Still a fault, they are still separated
+		- "Fracture zone"
+	- Difference in age in transform fault and fracture zone since plates across the fracture were formed from different spreading zones at different times
+	- Mendocino Fracture zone can be tracked all the way across the pacific
+	- Depth changes as square-root of age
+		- Different sides of the fracture can have very different depths
+
+- What are the important differences between Wegeners Theory of Continental Drift and the modern Theory of Plate Tectonics
+	- Plate tectonics has a driving force
+	- Plate tectonics has the whole plate moving, not just continents
+
+- Geologists today have a tool for restructing paleogeography which Wegener did not have
+	- Climatic indicators
+	- Paleomagnetism*******
+	- Rock type similarities
+	- Fossils
+	- Detailed coastal maps
+
+- Gabbro is mafic plutonic
+- Lithosphere is *very* thick under archean crust
+
+- Motion on a sphere
+	- Angular velocity is constant across the whole plate
+		- Actual velocity increases as you get further away from the pole
+		- Max velocity is at $90\degree$ from pole of rotation
+	- Pole of rotation is not the same as the earth's spin axis
+- Kansas has no deformation due to being in the middle of the north american plate in the middle of a craton
